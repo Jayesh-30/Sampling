@@ -1,3 +1,4 @@
+// Dont need this
 let rn = {
     '+rn': 0.57,
     '-rn': 0.43,
